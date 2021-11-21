@@ -21,7 +21,7 @@ from runner import Runner
 Window.clearcolor = (.53, .53, .53, 1)
 btn_color = (0, 0.9, 0.64, 1)
 
-age = 0
+age = 7
 name = ""
 p1, p2, p3 = 0, 0, 0
 
